@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Centaury Display";
+    src: local("Centaury Display"), local("Centaury-Display"),
+        url("../assets/fonts/Centaury-Display.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
